@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/yameshop/static/css/main.4fa91b3e.css",
+    "main.js": "/yameshop/static/js/main.308b94ab.js",
+    "static/media/IMG_ExSL3.jpg": "/yameshop/static/media/IMG_ExSL3.30e38888378958a39f44.jpg",
+    "static/media/IMG_ExSL1.jpg": "/yameshop/static/media/IMG_ExSL1.21f8d32b597081fa841e.jpg",
+    "static/media/IMG_ExSL2.jpg": "/yameshop/static/media/IMG_ExSL2.62a5de760702d6819dc8.jpg",
+    "static/media/IMG_Mota.jpg": "/yameshop/static/media/IMG_Mota.dba56531243aa7270d34.jpg",
+    "static/media/IMG_BannerShoes.jpg": "/yameshop/static/media/IMG_BannerShoes.f0494598c2c49029ae4c.jpg",
+    "static/media/IMG_Empty.png": "/yameshop/static/media/IMG_Empty.0503805348c546ee4450.png",
+    "index.html": "/yameshop/index.html",
+    "main.4fa91b3e.css.map": "/yameshop/static/css/main.4fa91b3e.css.map",
+    "main.308b94ab.js.map": "/yameshop/static/js/main.308b94ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa91b3e.css",
+    "static/js/main.308b94ab.js"
+  ]
+}
